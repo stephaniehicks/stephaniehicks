@@ -2,7 +2,7 @@
 
 🌱 I work at the intersection of data science and health. Specifically, I develop scalable methods and open-source software for biomedical data analysis leading to an improved understanding of human health and disease. I work to made these spaces more welcoming, diverse, and inclusive.
 
-👩‍💻 I am an Assistant Professor of Biostatistics at Johns Hopkins, faculty member of the Johns Hopkins Data Science Lab, and affiliations with the Center for Computational Biology, the Department of Genetic Medicine, and the Department of Biochemistry and Molecular Biology. 
+👩‍💻 I am an Associate Professor of Biostatistics at Johns Hopkins, faculty member of the Johns Hopkins Data Science Lab, and affiliations with the Center for Computational Biology, the Department of Genetic Medicine, and the Department of Biochemistry and Molecular Biology. 
 
 🎧 I’m also a co-host of the The Corresponding Author podcast, member of the Editorial Board for Genome Biology, an Associate Editor for Reproducibility at the Journal of the American Statistical Association, and co-founder of R-Ladies Baltimore.
 
